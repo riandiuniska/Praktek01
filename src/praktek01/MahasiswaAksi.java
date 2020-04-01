@@ -16,5 +16,7 @@ public class MahasiswaAksi {
         Rian.nama="Rian Potter";
         Rian.NPM="18631026";
         Rian.IPK="3.4";
+        
+        Rian.cetakInfo();
     }
 }
